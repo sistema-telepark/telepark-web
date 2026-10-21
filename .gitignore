@@ -1,0 +1,10 @@
+# Ignorar configuraciones locales y credenciales
+wp-config.php
+.htaccess
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+wp-content/uploads/
+wp-content/cache/
